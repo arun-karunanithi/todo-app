@@ -1,6 +1,6 @@
 [[redirects]]
 from = "/all-tasks"
-to = "/all-tasks"
+to = "/"
 status = 301
 
 [[redirects]]
