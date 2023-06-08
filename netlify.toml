@@ -1,0 +1,14 @@
+[[redirects]]
+from = "/all-tasks"
+to = "/all-tasks"
+status = 301
+
+[[redirects]]
+from = "/my-day-tasks"
+to = "/my-day-tasks"
+status = 301
+
+[[redirects]]
+from = "/favorite-tasks"
+to = "/favorite-tasks"
+status = 301
